@@ -49,6 +49,11 @@ Code generation bu full:
 andes prepare -f
 ```
 
+If your Jupyter Notebook does not show kernel andes, try follow:
+1. Acticate env andes
+2. Install jupyter notebook by: ```conda install jupyter notebook```
+3. Add kernel andes into env by: ```python -m ipykernel install --user --name andes --display-name 'andes'```
+
 ## git
 Daily work four steps:
 ```
