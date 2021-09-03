@@ -48,6 +48,21 @@ Sync changes:
 git pull
 ```
 
+List out local branches:
+```
+git branch
+```
+
+List out all branches (including remotes):
+```
+git branch -a
+```
+
+Create **NewBranch** from **CurrentBranch**:
+```
+git branch <NewBranch>
+```
+
 Create **NewBranch** from **OriginalBranch**:
 ```
 git checkout -b <NewBranch> <OriginalBranch>
@@ -65,13 +80,18 @@ git reset --hard <commit_ID>
 
 Add new remote:
 ```
-git remote add <remotename> <remote url>
+git remote add <remot_ename> <remote_url>
+```
+
+Add remote repo branches:
+```
+git fetch <remot_ename>
 ```
 
 ## linux
 Add new user by super user:
 ```
-sudo adduser newuser <name>
+sudo adduser newuser <user_name>
 ```
 
 List out directories/files:
