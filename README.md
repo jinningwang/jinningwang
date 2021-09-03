@@ -24,7 +24,7 @@ _|"""""|_|"""""|_|"""""|_|"""""|_|"""""| {======|_|"""""|_|"""""|_|"""""|_|"""""
               \/      \/          \/             \/      \/     \/     \/      \/ 
 ```
 
-[Jax Shot](https://github.com/jinningwang/jinningwang/tree/main/jaxshot), a photo album.
+[Jax Shot](https://github.com/jinningwang/jinningwang/blob/main/jaxshot.md), a photo album.
 ```
      ____.                  _________.__            __   
     |    |____  ___  ___   /   _____/|  |__   _____/  |_ 
