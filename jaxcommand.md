@@ -117,3 +117,18 @@ Stop a container:
 ```
 docker stop container_ID
 ```
+
+## SSH
+Set key pair, so you don't need to input passwords everytime.
+
+On Mac:
+1. Generate public key. Run following command in `Terminal`:
+```
+ssh-keygen -t rsa
+```
+
+2. Import public key into SSH. Run the following command in `Terminal`:
+```
+ssh-copy-id username@hostname
+```
+In this step you will enter passphrase for the public key. If you do not want to use it, hit `Enter` to leave it blank.
