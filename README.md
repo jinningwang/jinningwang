@@ -14,7 +14,7 @@ _|"""""|_|"""""|_|"""""|_|"""""|_|"""""| {======|_|"""""|_|"""""|_|"""""|_|"""""
 "`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'./o--000'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-' 
 ```
 
-[Jaxshot](https://github.com/jinningwang/jinningwang/tree/main/jaxshot), a daily life photo album.
+[Jax Shot](https://github.com/jinningwang/jinningwang/tree/main/jaxshot), a daily life photo album.
 ```
      ____.                  _________.__            __   
     |    |____  ___  ___   /   _____/|  |__   _____/  |_ 
