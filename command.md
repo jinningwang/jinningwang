@@ -37,7 +37,7 @@ git status
 git add .
 ```
 ```
-git commit -m "commit mesg"
+git commit -m "<commit mesg>"
 ```
 ```
 git push
@@ -50,23 +50,28 @@ git pull
 
 Create **NewBranch** from **OriginalBranch**:
 ```
-git checkout -b NewBranch OriginalBranch
+git checkout -b <NewBranch> <OriginalBranch>
 ```
 
 Delete a branch:
 ```
-git branch -d DeleteBranch
+git branch -d <DeleteBranch>
 ```
 
 Roll back to a commit:
 ```
-git reset --hard commit_ID
+git reset --hard <commit_ID>
+```
+
+Add new remote:
+```
+git remote add <remotename> <remote url>
 ```
 
 ## linux
 Add new user by super user:
 ```
-sudo adduser newuser name
+sudo adduser newuser <name>
 ```
 
 List out directories/files:
@@ -86,22 +91,22 @@ ls -l
 
 Create new directory:
 ```
-mkdir newdir
+mkdir <newdir>
 ```
 
 Delete a directory:
 ```
-rmdir dirname
+rmdir <dirname>
 ```
 
 Delete a directory/file by force:
 ```
-rm -rf dirname/filename
+rm -rf <dirname/filename>
 ```
 
 Change the owner of a direcoty:
 ```
-chown new_owner dirname
+chown <new_owner> <dirname>
 ```
 
 ## tmux
@@ -133,7 +138,7 @@ docker kill $(docker ps -q)
 
 Stop a container:
 ```
-docker stop container_ID
+docker stop <container_ID>
 ```
 
 ## SSH
@@ -147,6 +152,6 @@ ssh-keygen -t rsa
 
 2. Import public key into SSH. Run the following command in `Terminal`:
 ```
-ssh-copy-id username@hostname
+ssh-copy-id <username>@<hostname>
 ```
 In this step you will enter passphrase for the public key. If you do not want to use it, hit `Enter` to leave it blank.
