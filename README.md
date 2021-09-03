@@ -14,22 +14,6 @@ _|"""""|_|"""""|_|"""""|_|"""""|_|"""""| {======|_|"""""|_|"""""|_|"""""|_|"""""
 "`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'./o--000'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-' 
 ```
 
-[Jax Command](https://github.com/jinningwang/jinningwang/blob/main/jaxcommand.md), a note of my common commands.
-```
-     ____.                _________                                           .___
-    |    |____  ___  ___  \_   ___ \  ____   _____   _____ _____    ____    __| _/
-    |    \__  \ \  \/  /  /    \  \/ /  _ \ /     \ /     \\__  \  /    \  / __ | 
-/\__|    |/ __ \_>    <   \     \___(  <_> )  Y Y  \  Y Y  \/ __ \|   |  \/ /_/ | 
-\________(____  /__/\_ \   \______  /\____/|__|_|  /__|_|  (____  /___|  /\____ | 
-              \/      \/          \/             \/      \/     \/     \/      \/ 
-```
+[Command](https://github.com/jinningwang/jinningwang/blob/main/jaxcommand.md), a note of my common commands.
 
-[Jax Shot](https://github.com/jinningwang/jinningwang/blob/main/jaxshot.md), a photo album.
-```
-     ____.                  _________.__            __   
-    |    |____  ___  ___   /   _____/|  |__   _____/  |_ 
-    |    \__  \ \  \/  /   \_____  \ |  |  \ /  _ \   __\
-/\__|    |/ __ \_>    <    /        \|   Y  (  <_> )  |  
-\________(____  /__/\_ \  /_______  /|___|  /\____/|__|  
-              \/      \/          \/      \/             
-```
+[Shot](https://github.com/jinningwang/jinningwang/blob/main/jaxshot.md), a photo album.
