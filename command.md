@@ -28,6 +28,27 @@ If install by pip3:
 pip uninstall andes
 ```
 
+Selftest:
+```
+andes selftest
+```
+
+Code generation:
+```
+andes prepare
+```
+
+
+Code generation by incremental:
+```
+andes prepare -i
+```
+
+Code generation bu full:
+```
+andes prepare -f
+```
+
 ## git
 Daily work four steps:
 ```
