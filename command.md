@@ -10,6 +10,24 @@
 
 # Common Command
 
+## ANDES
+Install ANDES as Development Mode:
+```
+python3 -m pip install -e .
+```
+
+Uninstall ANDES
+
+If install by conda:
+```
+conda remove andes --force
+```
+
+If install by pip3:
+```
+pip uninstall andes
+```
+
 ## git
 Daily work four steps:
 ```
@@ -85,7 +103,7 @@ Change the owner of a direcoty:
 ```
 chown new_owner dirname
 ```
- 
+
 ## tmux
 Open tmux:
 ```
