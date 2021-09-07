@@ -76,6 +76,11 @@ Sync changes:
 git pull
 ```
 
+Revert modified files:
+```
+git checkout -f
+```
+
 List out local branches:
 ```
 git branch
