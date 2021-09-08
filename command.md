@@ -1,53 +1,25 @@
 # Common Command
 
-## ANDES
-Install ANDES as Development Mode:
+## conda
+Create an environment:
 ```
-python3 -m pip install -e .
-```
-
-Uninstall ANDES
-
-If install by conda:
-```
-conda remove andes --force
-```
-
-If install by pip3:
-```
-pip uninstall andes
-```
-
-Selftest:
-```
-andes selftest
-```
-
-Code generation:
-```
-andes prepare
-```
-
-
-Code generation by incremental:
-```
-andes prepare -i
-```
-
-Code generation bu full:
-```
-andes prepare -f
+conda create --name <env_name> python=<3.7>
 ```
 
 If your Jupyter Notebook does not show kernel andes, try follow:
-1. Acticate env andes
-2. Install jupyter notebook by:
+1. Acticate env andes:
 ```
-conda install jupyter notebook
+source activate <env_name>
 ```
-3. Add kernel andes into env by:
+
+2. Install jupyter by:
 ```
-python -m ipykernel install --user --name andes --display-name 'andes'
+conda install jupyter
+```
+
+3. Add kernel <env_name> into env by:
+```
+python -m ipykernel install --user --name <env_name> --display-name '<disp_name>'
 ```
 
 ## git
