@@ -38,12 +38,12 @@ Commit changes:
 git commit -m "<commit mesg>"
 ```
 
-Push commit to remote:
+Push commits to remote:
 ```
 git push
 ```
 
-Sync changes:
+Sync commits:
 ```
 git pull
 ```
@@ -91,6 +91,11 @@ git remote add <remot_ename> <remote_url>
 Add remote repo branches:
 ```
 git fetch <remot_ename>
+```
+
+% TODO: explain what is and how to use
+```
+git rebase
 ```
 
 ## linux
