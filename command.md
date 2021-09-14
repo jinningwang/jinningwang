@@ -98,6 +98,11 @@ git fetch <remot_ename>
 git rebase
 ```
 
+% TODO: explain
+```
+git push --force
+```
+
 ## linux
 Add new user by super user:
 ```
