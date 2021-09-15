@@ -1,6 +1,6 @@
 # How to use ANDES on SSH
 
-## Through VS Code
+## In VS Code
 
 ### Install VS Code and configure SSH
 
@@ -38,18 +38,25 @@ Now we assume that you have access to the SSH.
 * Open in browser:
 
   a) Open terminal by:
-`Ctrl` + `~`
-![image](https://user-images.githubusercontent.com/79226045/133363066-0e903e3f-d669-47a4-a84d-6c1bee881fa9.png)
+  `Ctrl` + `~`
+  ![image](https://user-images.githubusercontent.com/79226045/133363066-0e903e3f-d669-47a4-a84d-6c1bee881fa9.png)
 
   b) CD to the path which will be the root path:
-![image](https://user-images.githubusercontent.com/79226045/133363175-c62d58a6-f605-4959-804e-fa41441436f3.png)
+  ![image](https://user-images.githubusercontent.com/79226045/133363175-c62d58a6-f605-4959-804e-fa41441436f3.png)
 
   c) open jupyter notebook by:
-```
-jupyter notebook
-```
-If it does not open browser automatically, you can open it manually from the link:
-![image](https://user-images.githubusercontent.com/79226045/133363429-2b32c5d4-40be-40b8-90ec-d3291c1f658d.png)
+  ```
+  jupyter notebook
+  ```
+  If it does not open browser automatically, you can open it manually from the link:
+  ![image](https://user-images.githubusercontent.com/79226045/133363429-2b32c5d4-40be-40b8-90ec-d3291c1f658d.png)
 
-If you cannot find the desired kernel (usually it should be `andes`), you will need to install ipykernel.
-![image](https://user-images.githubusercontent.com/79226045/133363607-16c4fcfd-4ef3-4276-ba1e-a3d636f99f60.png)
+  If you cannot find the desired kernel (usually it should be `andes`), you will need to install ipykernel.
+  ![image](https://user-images.githubusercontent.com/79226045/133363607-16c4fcfd-4ef3-4276-ba1e-a3d636f99f60.png)
+
+## In CMD
+
+You can also connect to the SSH in CMD:
+```
+ssh <username>@<domain>
+```
