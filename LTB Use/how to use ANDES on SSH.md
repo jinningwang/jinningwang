@@ -36,14 +36,15 @@ Now we assume that you have access to the SSH.
 ![image](https://user-images.githubusercontent.com/79226045/133362684-32dffa56-6f92-46c2-97d6-2f4963008e4f.png)
 
 * Open in browser:
-a) Open terminal by:
+
+  a) Open terminal by:
 `Ctrl` + `~`
 ![image](https://user-images.githubusercontent.com/79226045/133363066-0e903e3f-d669-47a4-a84d-6c1bee881fa9.png)
 
-b) CD to the path which will be the root path:
+  b) CD to the path which will be the root path:
 ![image](https://user-images.githubusercontent.com/79226045/133363175-c62d58a6-f605-4959-804e-fa41441436f3.png)
 
-c) open jupyter notebook by:
+  c) open jupyter notebook by:
 ```
 jupyter notebook
 ```
