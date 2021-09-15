@@ -45,9 +45,9 @@ If your Jupyter Notebook does not show kernel andes, try follow:
 ```
 conda install jupyter notebook
 ```
-Or you can install complete jupyter:
+Or you can install complete jupyter package:
 ```
-conda install jupyter notebook
+conda install jupyter
 ```
 
 3. Add kernel andes into env by:
