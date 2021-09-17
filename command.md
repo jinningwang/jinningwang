@@ -27,6 +27,18 @@ conda install jupyter
 python -m ipykernel install --user --name env_name --display-name 'disp_name'
 ```
 
+Insert a path to the sys path temporarily:
+```
+import sys
+sys.append(new_path)
+```
+
+Insert a path to the sys path automatically:
+
+Create a new_path.pth file that contains new_path (e.g. Users/admin/documents/work/new_pkg) in it.
+
+Put the new_path.pth file under Python site-packages.
+
 ## git
 Check current branch and status:
 ```
