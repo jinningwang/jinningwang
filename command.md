@@ -3,7 +3,12 @@
 ## conda
 Create an environment:
 ```
-conda create --name <env_name> python=<3.7>
+conda create --name env_name python=3.7
+```
+
+Install packages from a list:
+```
+conda install --file requirements.txt
 ```
 
 If your Jupyter Notebook does not show kernel andes, try follow:
