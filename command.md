@@ -22,9 +22,9 @@ source activate <env_name>
 conda install jupyter
 ```
 
-3. Add kernel <env_name> into env by:
+3. Add kernel env_name into env by:
 ```
-python -m ipykernel install --user --name <env_name> --display-name '<disp_name>'
+python -m ipykernel install --user --name env_name --display-name 'disp_name'
 ```
 
 ## git
