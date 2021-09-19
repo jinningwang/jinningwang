@@ -128,6 +128,7 @@ git push --force
 Allows you to override this rule: the commit history on the remote will be forcefully overwritten with your own local history. This is a rather dangerous process, because it's very easy to overwrite (and thereby lose) commits from your colleagues.
 
 Reference:
+
 [How to Use git push --force](https://www.git-tower.com/learn/git/faq/git-force-push/)
 
 ## linux
