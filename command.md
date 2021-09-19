@@ -110,6 +110,12 @@ Add remote repo branches:
 git fetch remot_ename
 ```
 
+Merge a branch into current branch:
+This is useful when you want to sync updates from source branch.
+```
+git merge source_branch
+```
+
 % TODO: explain what is and how to use
 ```
 git rebase
@@ -119,6 +125,10 @@ git rebase
 ```
 git push --force
 ```
+Allows you to override this rule: the commit history on the remote will be forcefully overwritten with your own local history. This is a rather dangerous process, because it's very easy to overwrite (and thereby lose) commits from your colleagues.
+
+Reference:
+[How to Use git push --force](https://www.git-tower.com/learn/git/faq/git-force-push/)
 
 ## linux
 Add new user by super user:
