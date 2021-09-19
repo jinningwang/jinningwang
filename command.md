@@ -14,7 +14,7 @@ conda install --file requirements.txt
 If your Jupyter Notebook does not show kernel andes, try follow:
 1. Acticate env andes:
 ```
-source activate <env_name>
+source activate env_name
 ```
 
 2. Install jupyter by:
@@ -52,7 +52,7 @@ git add .
 
 Commit changes:
 ```
-git commit -m "<commit mesg>"
+git commit -m "commit_msg"
 ```
 
 Push commits to remote:
@@ -82,32 +82,32 @@ git branch -a
 
 Create **NewBranch** from **CurrentBranch**:
 ```
-git branch <NewBranch>
+git branch new_branch
 ```
 
 Create **NewBranch** from **OriginalBranch**:
 ```
-git checkout -b <NewBranch> <OriginalBranch>
+git checkout -b new_branch original_branch
 ```
 
 Delete a branch:
 ```
-git branch -d <DeleteBranch>
+git branch -d delete_branch
 ```
 
 Roll back to a commit:
 ```
-git reset --hard <commit_ID>
+git reset --hard commit_ID
 ```
 
 Add new remote:
 ```
-git remote add <remot_ename> <remote_url>
+git remote add remote_name remote_url
 ```
 
 Add remote repo branches:
 ```
-git fetch <remot_ename>
+git fetch remot_ename
 ```
 
 % TODO: explain what is and how to use
@@ -123,7 +123,7 @@ git push --force
 ## linux
 Add new user by super user:
 ```
-sudo adduser newuser <user_name>
+sudo adduser newuser user_name
 ```
 
 List out directories/files:
@@ -143,22 +143,22 @@ ls -l
 
 Create new directory:
 ```
-mkdir <newdir>
+mkdir new_dir
 ```
 
 Delete a directory:
 ```
-rmdir <dirname>
+rmdir dir_name
 ```
 
 Delete a directory/file by force:
 ```
-rm -rf <dirname/filename>
+rm -rf dir_name/file_name
 ```
 
 Change the owner of a direcoty:
 ```
-chown <new_owner> <dirname>
+chown new_owner dir_name
 ```
 
 ## tmux
@@ -190,7 +190,7 @@ docker kill $(docker ps -q)
 
 Stop a container:
 ```
-docker stop <container_ID>
+docker stop container_ID
 ```
 
 ## SSH
@@ -204,6 +204,6 @@ ssh-keygen -t rsa
 
 2. Import public key into SSH. Run the following command in `Terminal`:
 ```
-ssh-copy-id <username>@<hostname>
+ssh-copy-id user_name@host_name
 ```
 In this step you will enter passphrase for the public key. If you do not want to use it, hit `Enter` to leave it blank.
