@@ -60,6 +60,11 @@ Push commits to remote:
 git push
 ```
 
+Push commits to a new remote branch:
+```
+git push --set-upstream remote_name/branch_name
+```
+
 Sync commits:
 ```
 git pull
