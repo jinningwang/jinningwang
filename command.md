@@ -1,7 +1,7 @@
 # Common Command
 
 ## conda
-Create an environment:
+Create an environment with specific version of python:
 ```
 conda create --name env_name python=3.7
 ```
