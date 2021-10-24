@@ -137,6 +137,26 @@ Reference:
 [How to Use git push --force](https://www.git-tower.com/learn/git/faq/git-force-push/)
 
 ## linux
+Check current user:
+```
+whoami
+```
+
+Check current path:
+```
+pwd
+```
+
+Switch to target path:
+```
+cd path_you_want
+```
+
+Switch to topper path:
+```
+cd ..
+```
+
 Add new user by super user:
 ```
 sudo adduser newuser user_name
