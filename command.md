@@ -1,9 +1,33 @@
 # Common Command
 
 ## conda
+List out existing environments:
+```
+conda env list
+```
+
 Create an environment with specific version of python:
 ```
-conda create --name env_name python=3.7
+conda create --name myenv python=3.7
+```
+
+Activate an environment:
+```
+conda activate myenv
+```
+
+Deactivate current environment:
+```
+conda deactivate
+```
+
+Install a package:
+```
+conda install pkg
+```
+If not work, you may try:
+```
+pip install pkg
 ```
 
 Install packages from a list:
