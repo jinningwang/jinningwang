@@ -4,7 +4,7 @@ ANDES allows users to develop new models by their own will, which can be easily 
 Before developing your own model, it is recommended to go through the Model References, check out the existing groups and their functions.
 
 1. Make sure you installed ANDES in development mode.
-2. Find standard block diagram of your model, such as ESIG, Neplan, PowerWorld, or PSSE Model Library. If not you may need to build the block diagram.
+2. Find standard block diagram of your model, such as ESIG, Neplan, PowerWorld, or PSSE Model Library. If not you may need to build the block diagram first.
 3. Check existing models that are similar to your model, try to find similar function pieces to reduce manual efforts.
 4. Build your model and finalize it.
 5. Re-generate the pycode by ``andes prep``. Sometimes there occru multi-functionalities, if so you may need ``andes prep -f`` to re-generate all model codes.
