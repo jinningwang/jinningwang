@@ -1,6 +1,6 @@
-## Interesting work
+## Interesting Work
 
-## Interesting concept
+## Interesting Concept
 Transmission Planning with Battery-Based Energy Storage Transportation For Power Systems With High Penetration of Renewable Energy [11/21 TPWRS]
 
 Power Coupling for Transient Stability and Electromagnetic Transient Collaborative Simulation of Power Grids [11/21 TPWRS]
