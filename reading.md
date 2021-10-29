@@ -14,4 +14,3 @@ Power System Event Identification Based on Deep Neural Network With Information 
 Observability Analysis of a Power System Stochastic Dynamic Model Using a Derivative-Free Approach [11/21 TPWRS]
 
 Optimal Design of Water Tank Size for Power System Flexibility and Water Quality [11/21 TPWRS]
-<mark>highlight</mark>
