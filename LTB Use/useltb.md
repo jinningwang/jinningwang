@@ -72,7 +72,7 @@ If in tmux second window, it said the address is already in use, you may need to
 
 Other ANDES command:
 
-If you need any other ADNES command, just modify the andes part in the docker command.
+If you need any other ADNES command, just modify the andes part in the docker command (`... andes run wecc_vis.xlsx -r tds ...`).
 
 Generate the output csv file:
 ```
