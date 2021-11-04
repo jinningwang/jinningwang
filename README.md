@@ -14,4 +14,4 @@ _|"""""|_|"""""|_|"""""|_|"""""|_|"""""| {======|_|"""""|_|"""""|_|"""""|_|"""""
 "`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'./o--000'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-' 
 ```
 
-[Command](https://github.com/jinningwang/jinningwang/blob/main/command.md), a note of some common commands about conda, linux, and git.
+[Command](https://github.com/jinningwang/jinningwang/blob/main/command.md), a note of some common commands in conda, linux, and git.
