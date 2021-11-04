@@ -86,7 +86,11 @@ andes run weec_vis_out.xlsx --from-csv weec_vis_out.csv
 
 More details:
 
-https://github.com/CURENT/ltbvis
+[LTBVIS](https://github.com/CURENT/ltbvis)
+
+[ANDES](https://github.com/cuihantao/andes)
+
+[ANDES Documentation](https://docs.andes.app/en/stable/)
 
 ### Additional
 Play with Jupyter Notebook:
