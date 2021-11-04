@@ -183,7 +183,7 @@ cd ..
 
 Add new user by super user:
 ```
-sudo adduser newuser user_name
+sudo adduser user_name
 ```
 
 List out directories/files:
