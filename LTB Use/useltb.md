@@ -50,7 +50,7 @@ tmux
 
 4. Now you are in the tmux, run the LTBVIS:
 ```
-.go.sh dev2
+./go.sh dev2
 ```
 
 5. Now the communication is ready, in your browser open the web 'localhost:8810' and you should be able to see the visualization window. If the address is not correct, check the forwarded port number.
@@ -114,11 +114,3 @@ Play with Jupyter Notebook:
 
   If you cannot find the desired kernel (usually it should be `andes`), you will need to install ipykernel.
   ![image](https://user-images.githubusercontent.com/79226045/133363607-16c4fcfd-4ef3-4276-ba1e-a3d636f99f60.png)
-
-
-## In CMD
-
-You can also connect to the SSH in CMD:
-```
-ssh <username>@<domain>
-```
