@@ -200,6 +200,8 @@ List out all directories/files, and their owner, group and access:
 ```
 ls -l
 ```
+The meaning of ``ls -l`` output:
+[ls -l explained](https://www.garron.me/en/go2linux/ls-file-permissions.html)
 
 Create new directory:
 ```
@@ -219,6 +221,11 @@ rm -rf dir_name/file_name
 Change the owner of a direcoty:
 ```
 chown new_owner dir_name
+```
+
+Change the group of a direcoty:
+```
+chown new_group dir_name
 ```
 
 ## tmux
