@@ -274,3 +274,7 @@ ssh-keygen -t rsa
 ssh-copy-id user_name@host_name
 ```
 In this step you will enter passphrase for the public key. If you do not want to use it, hit `Enter` to leave it blank.
+
+## Python
+Permanently add a path to sys.path:
+In the python lib python "/Users/jinningwang/Documents/work/miniconda3/envs/env_name/lib/python3.7/site-packages/" create a path file "mypath.pth" which contains the path you want.
