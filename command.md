@@ -51,6 +51,8 @@ conda install jupyter
 python -m ipykernel install --user --name env_name --display-name 'disp_name'
 ```
 
+Ref: https://towardsdatascience.com/get-your-conda-environment-to-show-in-jupyter-notebooks-the-easy-way-17010b76e874
+
 Insert a path to the sys path temporarily:
 ```
 import sys
