@@ -1,6 +1,8 @@
-# Common Command
+# Common Commands
 
-## conda
+Here I collect some comman commands involving: [Conda](#Conda), [Git](#Git), [Linux](#linux), [tmux](#tmux), [Docker](#Docker), [SSH](*SSH).
+
+## Conda
 List out existing environments:
 ```
 conda env list
@@ -65,7 +67,7 @@ Create a new_path.pth file that contains new_path (e.g. Users/admin/documents/wo
 
 Put the new_path.pth file under Python site-packages.
 
-## git
+## Git
 Check current branch and status:
 ```
 git status
@@ -162,7 +164,7 @@ Reference:
 
 [How to Use git push --force](https://www.git-tower.com/learn/git/faq/git-force-push/)
 
-## linux
+## Linux
 Check current user:
 ```
 whoami
@@ -246,7 +248,7 @@ Terminate all tmux panels:
 tmux kill-server
 ```
 
-## docker
+## Docker
 List all containers:
 ```
 docker ps
