@@ -1,6 +1,6 @@
 # Common Commands
 
-Here I collect some comman commands involving: [Conda](#Conda), [Git](#Git), [Linux](#linux), [tmux](#tmux), [Docker](#Docker) [?](#SSH).
+Here I collect some comman commands involving: [Conda](#Conda), [Git](#Git), [Linux](#linux), [tmux](#tmux), [Docker](#Docker), [SSH](#SSH).
 
 ## Conda
 List out existing environments:
