@@ -6,4 +6,4 @@ The [AMS repository](https://github.com/CURENT/ams) has been transferred to [CUR
 
 Quick link:
 
-[Powerful Resources for PhD Students](https://jinningwang.github.io/posts/2023/02/tools/); [Common Commands](./command.md); 
+[Helpful Resources for PhD Students](https://jinningwang.github.io/posts/2023/02/tools/); [Common Commands](./command.md); 
