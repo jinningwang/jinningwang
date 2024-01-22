@@ -2,3 +2,9 @@
 His research interests include Data Mining, Scientific Computation, and Power System Simulation.
 Jinning Wang is the author of power system dispatch simulator [AMS](https://github.com/CURENT/ams), which is a key component of the [CURENT Large-scale Testbed](https://github.com/CURENT/ltb).
 He has been coordinating the development efforts for the [CURENT Large-scale Testbed](https://github.com/CURENT/ltb) since 2021.
+
+![jinningwang's Stats](https://github-readme-stats.vercel.app/api?username=jinningwang&theme=dracula&show_icons=true&hide_border=true&count_private=false)
+
+![jinningwang's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jinningwang&theme=dracula&hide_border=true)
+
+![jinningwang's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jinningwang&theme=dracula&show_icons=true&hide_border=true&layout=compact)
