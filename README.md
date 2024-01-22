@@ -4,8 +4,8 @@ Jinning Wang is the author of power system dispatch simulator [AMS](https://gith
 He has been coordinating the development efforts for the [CURENT Large-scale Testbed](https://github.com/CURENT/ltb) since 2021.
 
 <a href="https://github.com/jinningwang/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jinningwang" />
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api?username=jinningwang" />
 </a>
 <a href="https://github.com/jinningwang/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jinningwang&layout=compact&langs_count=8&card_width=320" />
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jinningwang&layout=compact&langs_count=8&card_width=320" />
 </a>
