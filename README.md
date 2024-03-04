@@ -4,6 +4,6 @@ Jinning Wang is the author of power system dispatch simulator [AMS](https://gith
 He has been coordinating the development efforts for the LTB since 2021.
 He also built and maintains the list [Popular Open Source Libraries for Power System Analysis](https://github.com/jinningwang/best-of-ps).
 
-[![Visits Badge](https://badges.strrl.dev/visits/jinningwang/jinningwang)](https://github.com/jinningwang/jinningwang/graphs/traffic)
+[![HitCount](https://hits.dwyl.com/jinningwang/jinningwang.svg?style=flat-square)](http://hits.dwyl.com/jinningwang/jinningwang)
 [![Years Badge](https://badges.strrl.dev/years/jinningwang)](https://badges.strrl.dev)
 [![Public Repos Badge](https://badges.strrl.dev/repos/jinningwang)](https://github.com/jinningwang?tab=repositories)
