@@ -2,6 +2,27 @@
 
 Here I collect some comman commands involving: [Conda](#Conda), [Git](#Git), [Linux](#linux), [tmux](#tmux), [Docker](#Docker), [SSH](#SSH).
 
+## Docker
+Remove All Docker Resources
+```
+docker system prune -a --volumes -f
+```
+
+List all containers:
+```
+docker ps
+```
+
+Kill all containers:
+```
+docker kill $(docker ps -q)
+```
+
+Stop a container:
+```
+docker stop container_ID
+```
+
 ## Conda
 List out existing environments:
 ```
@@ -246,22 +267,6 @@ tmux ls
 Terminate all tmux panels:
 ```
 tmux kill-server
-```
-
-## Docker
-List all containers:
-```
-docker ps
-```
-
-Kill all containers:
-```
-docker kill $(docker ps -q)
-```
-
-Stop a container:
-```
-docker stop container_ID
 ```
 
 ## SSH
