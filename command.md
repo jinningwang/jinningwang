@@ -2,6 +2,17 @@
 
 Here I collect some comman commands involving: [Conda](#Conda), [Git](#Git), [Linux](#linux), [tmux](#tmux), [Docker](#Docker), [SSH](#SSH).
 
+## Python
+Build a distribution
+```
+python -m build
+```
+
+Upload to TestPyPI
+```
+twine upload --repository-url https://test.pypi.org/legacy/ dist/*
+```
+
 ## Docker
 Remove All Docker Resources
 ```
