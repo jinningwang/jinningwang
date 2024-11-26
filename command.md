@@ -14,6 +14,11 @@ twine upload --repository-url https://test.pypi.org/legacy/ dist/*
 ```
 
 ## Docker
+Run GitHub Actions locally
+```
+act -j <job_name> --container-architecture linux/amd64
+```
+
 Remove All Docker Resources
 ```
 docker system prune -a --volumes -f
